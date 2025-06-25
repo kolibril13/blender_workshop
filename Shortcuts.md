@@ -1,3 +1,6 @@
+# Blender Shortcuts
+
+https://hollisbrown.github.io/blendershortcuts/
 
 1. G = move
 2. R = rotate
