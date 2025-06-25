@@ -25,7 +25,7 @@
 
 🧑‍💻 Task: create this spreadsheet:
 
-![alt text](image.png)
+![alt text](image-0.png)
 
 <details>
 <summary>✅ Solution</summary>
