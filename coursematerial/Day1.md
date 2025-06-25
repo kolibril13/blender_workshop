@@ -4,6 +4,13 @@ https://www.google.com/search?q=geometry+nodes+make+a+spring&rlz=1C5CHFA_enDE110
 https://www.youtube.com/watch?v=ORTiqsFfDHE&t=474s
 https://docs.blender.org/manual/en/latest/modeling/geometry_nodes/introduction.html
 
+
+https://www.kenyon.edu/events/physics-colloquium-experiments-with-graphene-for-the-advanced-undergraduate-laboratory/2023-11-10/
+
+https://swcarpentry.github.io/git-novice/
+
+
+
 9:00-17:00
 9:00
 
