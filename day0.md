@@ -1,13 +1,17 @@
-# Python Fundamentals
+# Blender Geometry Nodes Fundamentals
 
-cc Jan-Hendrik Müller | _Last updated on 25.6.2025_ 
+**Author:** Jan-Hendrik Müller  
+**Last updated:** 25.6.2025  
+**Blender Version:** 4.5
+
+## 🧱 Block 1 – Geometry Nodes Basics
 
 ### Questions
-- What basic data types can I work with in Python?
-- How can I create a new variable in Python?
-- How do I use a function?
-- Can I change the value associated with a variable after I create it?
-- How can I get help while learning to program?
+- What is procedural modeling?
+- How do I add a Geometry Nodes modifier?
+- What are inputs, outputs, and node links?
 
 ### Objectives
-- Assign values to variables.
+- Add a Geometry Nodes modifier to a mesh.
+- Create basic shapes like cube, sphere, grid.
+- Connect nodes and view the result in the viewport.
