@@ -1,7 +1,8 @@
 ![alt text](<Pasted image 20250624222044.png>)
 
-
-
+https://www.google.com/search?q=geometry+nodes+make+a+spring&rlz=1C5CHFA_enDE1106DE1106&oq=geometry+nodes+make+a+spring&gs_lcrp=EgZjaHJvbWUyBggAEEUYOTIHCAEQIRigATIHCAIQIRigATIGCAMQIRgV0gEINDUzNWowajeoAgCwAgA&sourceid=chrome&ie=UTF-8#fpstate=ive&vld=cid:c6222b1a,vid:6xX43RMZPy4,st:13
+https://www.youtube.com/watch?v=ORTiqsFfDHE&t=474s
+https://docs.blender.org/manual/en/latest/modeling/geometry_nodes/introduction.html
 
 9:00-17:00
 9:00
