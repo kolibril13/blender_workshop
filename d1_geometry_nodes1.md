@@ -6,6 +6,9 @@
 
 ## 🧱 Block 1 – Geometry Nodes Basics
 
+> [!NOTE]  
+> Highlights information that users should take into account, even when skimming.
+
 
 > [!NOTE]   ### Questions
 > - What is procedural modeling?
