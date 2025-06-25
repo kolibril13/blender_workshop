@@ -4,7 +4,7 @@
 **Last updated:** 25.6.2025  
 **Blender Version:** 4.5
 
-## 🧱 Block 1 – Geometry Nodes Basics
+## Block 1 – Geometry Nodes Basics
 
 
 
