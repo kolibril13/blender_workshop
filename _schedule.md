@@ -7,6 +7,12 @@ https://app.diagrams.net/?src=about#G1aWpBXfEwbXRKJSb8ySCZg8-xc_1qO3tn#%7B%22pag
 
 # Day1:
 
+- Intro Blender
+- 
+- HandsOn: d1a_interface.md
+- Intro Geometry Nodes
+- Hands
+
 UI
 - GeoNodes I
 - ShaderNodes I

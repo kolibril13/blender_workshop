@@ -8,6 +8,7 @@
 
 
 
+
 ### Questions
 - What is procedural modeling?
 - How do I add a Geometry Nodes modifier?
@@ -20,7 +21,16 @@
 
 
 
+# Introduction.
 
+10 Minten F
+
+
+
+
+
+# Harry Blends Video
+https://www.youtube.com/watch?v=a-4oCHe-hDE
 
 
 🧑‍💻 Task: create this spreadsheet:
