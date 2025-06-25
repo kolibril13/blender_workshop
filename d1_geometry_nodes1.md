@@ -6,14 +6,12 @@
 
 ## 🧱 Block 1 – Geometry Nodes Basics
 
-> [!NOTE]  
-> Highlights information that users should take into account, even when skimming.
 
 
-> [!NOTE]   ### Questions
-> - What is procedural modeling?
-> - How do I add a Geometry Nodes modifier?
-> - What are inputs, outputs, and node links?
+### Questions
+- What is procedural modeling?
+- How do I add a Geometry Nodes modifier?
+- What are inputs, outputs, and node links?
 
 ### Objectives
 - Add a Geometry Nodes modifier to a mesh.
