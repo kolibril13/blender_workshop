@@ -2,7 +2,7 @@
 
 https://app.diagrams.net/?src=about#G1aWpBXfEwbXRKJSb8ySCZg8-xc_1qO3tn#%7B%22pageId%22%3A%22e7010aeb-78dc-98c9-4316-6516fd28bfe3%22%7D
 
-![](image.png)
+![](image-20250626143618693.png)
 
 
 # Day1:
