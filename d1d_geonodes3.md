@@ -1,9 +1,9 @@
-# Distribute Objects
+##  Distribute Objects
 
-🧑‍💻 Task: Connect two spheres with a rod:
+🧑‍💻  **Task** : Distribute These cubes in a circle
 
 ![alt text](image-4.png)
 
-Tip: Create a new object and use a "Object Info node".
+✅ **Solution**
 
-![alt text](image-5.png)
+![](Pasted%20image%2020250626142544.png)
