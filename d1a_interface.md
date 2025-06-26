@@ -13,7 +13,7 @@ https://hollisbrown.github.io/blendershortcuts/
 7. Ctrl + R = loop cut
 8. F = make face
 9. X = delete
-10. Shift + A = add new mesh
+10. Shift + A = add new object
 11. Tab = edit/object mode toggle
 12. Z = shading pie menu
 13. Ctrl + B = bevel edges
@@ -33,10 +33,10 @@ https://hollisbrown.github.io/blendershortcuts/
 - Mesh – Vertices, edges, faces (for 3D models)
 - Point Cloud – Unconnected points, used in simulations
 - Curve – Smooth shapes defined by control points
-- Spline – A segment of a curve (Bezier, NURBS, etc.)
 - Grease Pencil – 2D/3D strokes for drawing and animation
 
 
 
-🧑‍💻 Task:
+🧑‍💻 Task: Add 4 objects to your scene 
+💡 : Use the Shortcut Shift A
 

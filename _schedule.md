@@ -7,9 +7,22 @@ https://app.diagrams.net/?src=about#G1aWpBXfEwbXRKJSb8ySCZg8-xc_1qO3tn#%7B%22pag
 
 # Day1:
 
-- Intro Blender
-- 
-- HandsOn: d1a_interface.md
+- **Input / Lecture** : Intro Blender
+  - Show reel
+  - Show what we will do in the course
+  - target audince
+  - jobs (phywe, veritasium, Spiegel, ...)
+  - Similar software
+  - node trees 
+  - All areas of blender
+  
+- **HandsOn**: d1a_interface.md
+  - Shortcuts, object types
+  
+
+- Follow Along: 
+
+
 - Intro Geometry Nodes
 - Hands
 

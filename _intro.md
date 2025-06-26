@@ -4,7 +4,7 @@
 Welcome! 👋
 
 In this course, you'll learn the essential tools to use Blender within Python notebooks.
-Our focus is on practical Python skills that will help you work with Blender, leaving aside much of the theory.
+Our focus is on practical Python skills that will help you work with Blender, leaving aside much of the theory. #TODO
   
 **Things to Know Before We Start:**
 * 💡 -> The lightbulb emoji highlights **important information**.
@@ -19,3 +19,8 @@ Be considerate of one another.
 
 * 💡 -> The lightbulb emoji highlights **important information**.
 * 🧑‍💻 ->  "Person Behind Computer" emoji indicates a **task** for you to complete.
+
+
+# Inspriation for this tutroial:
+
+https://surf-visualization.github.io/blender-course/overview/target_audience/
